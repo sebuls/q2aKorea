@@ -166,7 +166,7 @@
 		'search_title' => '검색 결과',
 		'selected' => '선택됨',
 		'send_button' => '보내기',
-		'since_x' => '생성 년도 ^',
+		'since_x' => '^부터',
 		'suggest_ask' => '^1질문하기^2로 도움을 받아보십시오.',
 		'suggest_category_qs' => '더 보려면, ^1이 카테고리의 질문^2을 모두 클릭하십시오.',
 		'suggest_qs_tags' => '더 보려면, ^1질문의 전체 목록^2 또는 ^3인기 태그^4를 클릭하십시오.',
