@@ -17,7 +17,7 @@
 	GNU General Public License for more details.
 
 	More about this license: http://www.question2answer.org/license.php
-	First edition is of Korea translation of 1.7.x is made by minwook shin
+	First edition of Korea translation of 1.7.x is made by minwook shin
 	https://github.com/minwook-shin
 	Sebul improve the document.
 */
