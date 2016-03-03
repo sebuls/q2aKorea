@@ -3,9 +3,8 @@
 	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-include/qa-lang-main.php
+	File: qa-lang/ko/qa-lang-main.php
 	Description: Language phrases commonly used throughout Q2A
-
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
@@ -18,8 +17,9 @@
 	GNU General Public License for more details.
 
 	More about this license: http://www.question2answer.org/license.php
-	korea translation made by minwook shin
+	First edition is of Korea translation of 1.7.x is made by minwook shin
 	https://github.com/minwook-shin
+	Sebul improve the document.
 */
 
 	return array(
@@ -39,8 +39,8 @@
 		'1_user' => '1 사용자',
 		'1_view' => '1 읽음',
 		'1_vote' => '1 투표',
-		'1_week' => '1 주',
-		'1_year' => '1 년',
+		'1_week' => '1주',
+		'1_year' => '1년',
 		'add_category_x_favorites' => '내 즐겨찾기로 ^카테고리 추가',
 		'add_favorites' => '내 즐겨찾기를 추가',
 		'add_tag_x_favorites' => '내 즐겨찾기의 ^태그 추가',
@@ -54,7 +54,7 @@
 		'answered' => '답변함',
 		'asked_related_q' => '관련 질문',
 		'asked' => '물음',
-		'by_x' => ' ^ ',
+		'by_x' => ' ^ 씀',
 		'cancel_button' => '취소',
 		'closed' => '닫음',
 		'comment_edited' => '댓글 수정',
@@ -62,8 +62,8 @@
 		'comment_reshown' => '댓글 다시 보기',
 		'commented' => '댓글',
 		'date_day_min_digits' => 1, // 1 or 2
-		'date_format_other_years' => '^year ^month ^day',
-		'date_format_this_year' => '^month ^day',
+		'date_format_other_years' => '^year년 ^month ^day일',
+		'date_format_this_year' => '^month ^day일',
 		'date_month_1' => '1월',
 		'date_month_2' => '2월',
 		'date_month_3' => '3월',
@@ -94,7 +94,7 @@
 		'max_length_x' => '최대 길이는 ^자입니다.',
 		'me' => '나',
 		'meta_order' => '^what^when^where^who', // you can reorder but DO NOT translate! e.g. <answered> <15 hours ago> <in Problems> <by me (500 points)>
-		'min_length_x' => '내용이 너무 짧습니다. 적어도 ^ 글자를 적어야 합니다.',
+		'min_length_x' => '내용이 너무 짧습니다. ^ 글자 이상 적어야 합니다.',
 		'max_upload_size_x' => '최대 업로드 사이즈는 ^입니다.',
 		'moved' => '이동됨',
 		'nav_activity' => '모든 활동',
@@ -222,8 +222,8 @@
 		'x_users' => '^ 사용자',
 		'x_views' => '^ 읽음',
 		'x_votes' => '^ 투표',
-		'x_weeks' => '^ 주',
-		'x_years' => '^ 년',
+		'x_weeks' => '^주',
+		'x_years' => '^년',
 	);
 
 
